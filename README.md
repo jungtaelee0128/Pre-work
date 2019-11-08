@@ -22,8 +22,9 @@ The following  **required** functionality is completed:
 
 ## Video Walkthrough
 
-<img src='https://imgur.com/ItKIudI.gif' title='Cybersecurity Prework' width='' alt='Cybersecurity Prework'/>
+<img src='https://imgur.com/Wu4rQRV.gif' title='Cybersecurity Prework' width='' alt='Cybersecurity Prework'/>
 GIF created with [LiceCap] (http://www.cockos.com/licecap/).
+
 
 ## Notes
 
