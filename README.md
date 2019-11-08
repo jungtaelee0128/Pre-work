@@ -21,9 +21,8 @@ The following  **required** functionality is completed:
 9. [x]  Required: Challenge 8 - Insecure Direct Object Reference Bank
 
 ## Video Walkthrough
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ItKIudI" data-context="false" ><a href="//imgur.com/a/ItKIudI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src='https://imgur.com/a/ItKIudI' title='Cybersecurity Prework by Jung Tae Lee' width='' alt='Cybersecurity Prework by Jung Tae Lee' />
+<img src='https://imgur.com/a/ItKIudI' title='Cybersecurity Prework by Jung Tae Lee' width='' alt='Cybersecurity Prework by Jung Tae Lee'/>
 GIF created with [LiceCap] (http://www.cockos.com/licecap/).
 
 ## Notes
