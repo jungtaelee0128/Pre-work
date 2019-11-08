@@ -22,7 +22,7 @@ The following  **required** functionality is completed:
 
 ## Video Walkthrough
 
-<img src='https://imgur.com/a/ItKIudI.gif' title='Cybersecurity Prework by Jung Tae Lee' width='' alt='Cybersecurity Prework by Jung Tae Lee'/>
+<img src='https://imgur.com/a/ItKIudI.gif' title='Cybersecurity Prework' width='' alt='Cybersecurity Prework'/>
 GIF created with [LiceCap] (http://www.cockos.com/licecap/).
 
 ## Notes
