@@ -23,6 +23,9 @@ The following  **required** functionality is completed:
 ## Video Walkthrough
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ItKIudI" data-context="false" ><a href="//imgur.com/a/ItKIudI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+<img src='https://imgur.com/a/ItKIudI' title='Cybersecurity Prework by Jung Tae Lee' width='' alt='Cybersecurity Prework by Jung Tae Lee' />
+GIF created with [LiceCap] (http://www.cockos.com/licecap/).
+
 ## Notes
 
 The pre-work entailed completing a lab which emulated basic insecure direct object reference exploits on the OWASP Security Shepherd website. I learned how to familiarize myself  had with using the Burp Suite for manipulating GET and POST requests through the CodePath course this Fall 2019.
